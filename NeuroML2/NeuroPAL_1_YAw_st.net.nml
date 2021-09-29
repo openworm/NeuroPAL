@@ -1,0 +1,1657 @@
+<neuroml xmlns="http://www.neuroml.org/schema/neuroml2"  xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.neuroml.org/schema/neuroml2 https://raw.github.com/NeuroML/NeuroML2/development/Schemas/NeuroML2/NeuroML_v2.2.xsd" id="NeuroPAL_1_YAw_st">
+    <fitzHughNagumoCell id="GenericNeuronCell" I="0.1"/>
+    <network id="NeuroPAL_1_YAw_st">
+        <population id="pop_AMSOL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.281915 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="1.502307402880837" y="-12.324899898177129" z="6.140554728757754"/>
+            </instance>
+        </population>
+        <population id="pop_I1R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.076821 1.000000 0.188475"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="4.13812992656779" y="-10.342608354080863" z="-5.671780194017299"/>
+            </instance>
+        </population>
+        <population id="pop_MCL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.080540 0.113371"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="3.761113487219239" y="-2.535674964839517" z="2.646800653399076"/>
+            </instance>
+        </population>
+        <population id="pop_I1L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.067440 0.124522 0.088020"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="6.894773227037313" y="-2.3447554933775" z="-3.857957704378268"/>
+            </instance>
+        </population>
+        <population id="pop_MI" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.049752 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="23.302145415149464" y="-10.969365975476398" z="1.923863601976027"/>
+            </instance>
+        </population>
+        <population id="pop_IL2DR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.251645 0.188296 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="28.985729374063958" y="-13.869660032237265" z="-0.195195997883649"/>
+            </instance>
+        </population>
+        <population id="pop_NSMR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.046547 0.129548 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="30.528186289703477" y="-11.37555535042997" z="7.326422712368561"/>
+            </instance>
+        </population>
+        <population id="pop_I3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.191097 0.365167 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="31.443948912744169" y="-11.603262661385537" z="4.841357150837752"/>
+            </instance>
+        </population>
+        <population id="pop_I2L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.207300 0.097190 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="18.660986578332846" y="2.081584420784933" z="3.555965645872954"/>
+            </instance>
+        </population>
+        <population id="pop_M4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.041898 0.119075"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="30.773564369478038" y="-6.462490502661625" z="0.976127346894755"/>
+            </instance>
+        </population>
+        <population id="pop_URADL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.169777 0.220340 0.396991"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="34.109639941017136" y="-8.07951823066298" z="6.059154649728929"/>
+            </instance>
+        </population>
+        <population id="pop_URADR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.120314 0.100960 0.538009"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="35.219352473820521" y="-9.939406812940302" z="1.103985081112711"/>
+            </instance>
+        </population>
+        <population id="pop_I2R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.299402 0.237304 0.005944"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="21.065335833854302" y="1.289231928155198" z="-7.736086765937117"/>
+            </instance>
+        </population>
+        <population id="pop_OLLL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.745417 0.778285 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="35.243925839426538" y="-5.391630615641253" z="6.299820084244468"/>
+            </instance>
+        </population>
+        <population id="pop_URYDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.500237 0.440879 0.882472"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="38.682548158441683" y="-10.804925474735368" z="-1.103049445266021"/>
+            </instance>
+        </population>
+        <population id="pop_URYDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.606411 0.778285 0.722758"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="38.648690752729586" y="-6.426202382778414" z="6.743436416901482"/>
+            </instance>
+        </population>
+        <population id="pop_IL1DL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="38.096665494199954" y="-7.793084125934266" z="1.576477047637823"/>
+            </instance>
+        </population>
+        <population id="pop_M3L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.116903 0.325269 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="29.374687491130587" y="2.165537325233044" z="2.339012583929254"/>
+            </instance>
+        </population>
+        <population id="pop_OLQDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.950516 1.000000 0.547199"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="40.521063872687371" y="-8.570180415013898" z="2.441513714653961"/>
+            </instance>
+        </population>
+        <population id="pop_IL1L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.631995 0.343804 0.290198"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="35.941296630970832" y="-1.289013578223961" z="5.042281455245547"/>
+            </instance>
+        </population>
+        <population id="pop_MCR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.120741 0.239189 0.489207"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="36.094793496766734" y="-2.745858069535713" z="-1.198892552129389"/>
+            </instance>
+        </population>
+        <population id="pop_RMED" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.084938 0.215094"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="43.70463966637012" y="-9.915615396016626" z="2.472661517056202"/>
+            </instance>
+        </population>
+        <population id="pop_OLQDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.255973"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="41.105796532942477" y="-7.630511694491567" z="0.250445220605247"/>
+            </instance>
+        </population>
+        <population id="pop_OLLR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.286610 0.616807 0.584275"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="37.090494047895525" y="-3.782064034280553" z="-4.095195949841826"/>
+            </instance>
+        </population>
+        <population id="pop_IL2R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.309210 0.652936 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="34.53145965620633" y="-2.058090978254698" z="-7.188663134393668"/>
+            </instance>
+        </population>
+        <population id="pop_IL2VR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.643508 0.491144 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="21.278105266016375" y="10.934657489413494" z="-7.512257839780281"/>
+            </instance>
+        </population>
+        <population id="pop_URBL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.214122 0.133004 0.262311"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="36.117591059123768" y="2.960188918935425" z="6.882259392340985"/>
+            </instance>
+        </population>
+        <population id="pop_IL2L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.395769 0.268720 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="26.910966761757781" y="9.245780195592289" z="-1.778221798416072"/>
+            </instance>
+        </population>
+        <population id="pop_BAGL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.575710 0.577223 0.670470"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="37.02646517440062" y="2.360444603574187" z="4.544257720140082"/>
+            </instance>
+        </population>
+        <population id="pop_IL1VL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.395769 0.214371 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="30.945321909824937" y="7.508540036828643" z="-1.050340722056702"/>
+            </instance>
+        </population>
+        <population id="pop_IL1R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.676497 0.209390"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="37.70457054796249" y="0.055057002663029" z="-6.793207135498701"/>
+            </instance>
+        </population>
+        <population id="pop_RIPL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.215401 0.109128 0.005627"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="41.331333070219088" y="1.07816173786996" z="6.387144264808178"/>
+            </instance>
+        </population>
+        <population id="pop_URYVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.168924 0.089336 0.272135"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="43.544796895597173" y="-1.447714507112475" z="6.495802835259671"/>
+            </instance>
+        </population>
+        <population id="pop_URBR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.003054 0.114155 0.521847"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="41.93569674381164" y="-1.104514051376482" z="-0.496697654350897"/>
+            </instance>
+        </population>
+        <population id="pop_M3R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.496399 0.700373 0.501566"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="38.805078979104131" y="4.766997386747442" z="3.610514479094"/>
+            </instance>
+        </population>
+        <population id="pop_RIPR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.312621 0.783625 0.405864"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="40.985501049623643" y="-0.906870507350418" z="-6.286427494282634"/>
+            </instance>
+        </population>
+        <population id="pop_CEPDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.989745 0.574082 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="53.641348942374002" y="-12.07338132193428" z="6.544154674696827"/>
+            </instance>
+        </population>
+        <population id="pop_URAVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.071278 0.066717 0.301606"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="32.991666196896546" y="8.638856463571839" z="-6.265913346278605"/>
+            </instance>
+        </population>
+        <population id="pop_RMER" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.305798 0.440251 0.816558"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="43.707667163097668" y="-2.321094097371136" z="-6.079087322742982"/>
+            </instance>
+        </population>
+        <population id="pop_RMDVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.765221"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="54.790801802109407" y="-12.017961359335642" z="-0.460270355846469"/>
+            </instance>
+        </population>
+        <population id="pop_SMDVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.505780 0.466012 0.517727"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="55.060984739662281" y="-8.609178979930181" z="9.065080608559642"/>
+            </instance>
+        </population>
+        <population id="pop_BAGR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.674208 0.450304 0.209390"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="44.046925943358083" y="-0.756477293530935" z="-7.607112091870341"/>
+            </instance>
+        </population>
+        <population id="pop_ALA" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.423485 0.647595 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="56.051131168963053" y="-12.031412655320439" z="3.967577395481305"/>
+            </instance>
+        </population>
+        <population id="pop_OLQVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.058912 0.190181 0.019254"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="36.484670301079525" y="8.246588979235998" z="-6.075421821778241"/>
+            </instance>
+        </population>
+        <population id="pop_NSML" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.781661 0.030903 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="36.899454445554326" y="8.94296001485122" z="-3.22906603603283"/>
+            </instance>
+        </population>
+        <population id="pop_URXR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.664449"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="54.773646922706916" y="-9.999037054776723" z="3.150862909534838"/>
+            </instance>
+        </population>
+        <population id="pop_URYVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.592339 0.676812 0.982294"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="40.69284490332398" y="4.692793008736264" z="-6.053870268359623"/>
+            </instance>
+        </population>
+        <population id="pop_URAVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.384256 0.382445 0.718321"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="41.186168126689573" y="6.857996353765833" z="0.98230042364733"/>
+            </instance>
+        </population>
+        <population id="pop_RIAL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.832948 0.719589"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="53.599959730384519" y="-4.631801427435652" z="5.651949889480385"/>
+            </instance>
+        </population>
+        <population id="pop_CEPVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.274671 0.228508 0.561776"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="43.687447032097225" y="6.733379628271658" z="1.93260814061874"/>
+            </instance>
+        </population>
+        <population id="pop_RMDVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.258353 0.602338"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="52.770763253959984" y="-1.477661970270749" z="9.18541966283135"/>
+            </instance>
+        </population>
+        <population id="pop_CEPDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.845200 0.255023"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="56.649621712994019" y="-9.093892867810704" z="-1.597869454054951"/>
+            </instance>
+        </population>
+        <population id="pop_ASKL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.333941 0.508737 0.266431"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="44.121884788662634" y="5.456837597739905" z="-6.187018988897942"/>
+            </instance>
+        </population>
+        <population id="pop_SAAVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.521303 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="54.022319416729516" y="-0.18031949483832" z="8.30550124680809"/>
+            </instance>
+        </population>
+        <population id="pop_CEPVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.442764 0.221432"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="43.216493519122466" y="7.659457960066639" z="-5.241913468575686"/>
+            </instance>
+        </population>
+        <population id="pop_ADFR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.687427 0.547378 0.440088"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="55.856023282677427" y="-6.245950763642234" z="-0.906844947132329"/>
+            </instance>
+        </population>
+        <population id="pop_RIAR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.577842 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="54.898798792764943" y="-3.13284842530374" z="-3.439901497733314"/>
+            </instance>
+        </population>
+        <population id="pop_AWBL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.258894 0.951386 0.397308"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="61.315041623012455" y="-5.631129815798339" z="7.950621364961466"/>
+            </instance>
+        </population>
+        <population id="pop_ADFL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.492562 0.341919 0.950921"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="57.85595626153755" y="-0.27729988204903" z="7.220381608015938"/>
+            </instance>
+        </population>
+        <population id="pop_SAAVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="56.545608804802363" y="-2.042350305694104" z="-5.146698448105588"/>
+            </instance>
+        </population>
+        <population id="pop_ASIR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.016272 0.662046 0.037950"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="62.249238358912898" y="-7.544122799442631" z="1.722483908716463"/>
+            </instance>
+        </population>
+        <population id="pop_SIBDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.396195 0.119181 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="54.11771894362991" y="2.36517019179164" z="-3.037781349919821"/>
+            </instance>
+        </population>
+        <population id="pop_SMDVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.746555 0.488573"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="55.443532715337263" y="-0.529768194378479" z="-7.581415837095278"/>
+            </instance>
+        </population>
+        <population id="pop_RMDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.622462 0.338999"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="56.682551166445606" y="4.520986376650137" z="7.765344509202814"/>
+            </instance>
+        </population>
+        <population id="pop_RMEV" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.016451 0.248368"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="50.146475344985006" y="9.47530179555662" z="-1.254293450255694"/>
+            </instance>
+        </population>
+        <population id="pop_OLQVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.679026"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="57.229392506357499" y="2.977004519051201" z="5.263935028807471"/>
+            </instance>
+        </population>
+        <population id="pop_AFDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.190244 0.416060 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="59.565383404015215" y="-2.618073408191896" z="-4.646226409602705"/>
+            </instance>
+        </population>
+        <population id="pop_ADLL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.197919 0.863421 0.337415"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="64.666213204828196" y="-4.544996017775343" z="7.0097284127577"/>
+            </instance>
+        </population>
+        <population id="pop_ASHL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.724950 0.408835 0.247417"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="61.624056751153745" y="2.256165383459997" z="8.711055943943091"/>
+            </instance>
+        </population>
+        <population id="pop_AWBR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.342042 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="64.193486080202319" y="-5.331632020872501" z="-3.110540359919796"/>
+            </instance>
+        </population>
+        <population id="pop_RMDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.606440 0.504101"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="58.009412326557417" y="4.012474408088731" z="-6.767426691290661"/>
+            </instance>
+        </population>
+        <population id="pop_AUAL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.703630 0.209973 0.160271"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="62.468072307854122" y="3.566226426087914" z="5.083935593463163"/>
+            </instance>
+        </population>
+        <population id="pop_AVAR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="59.726459970185921" y="3.414610230245541" z="-5.757981671213991"/>
+            </instance>
+        </population>
+        <population id="pop_ASEL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.269128 0.291654 0.482235"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="65.872990274690522" y="0.074221461062659" z="8.324787788213406"/>
+            </instance>
+        </population>
+        <population id="pop_HMC" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.023363 0.353576"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.294067605336764" y="-5.13047822605736" z="10.427896772346539"/>
+            </instance>
+        </population>
+        <population id="pop_AVHL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.105358 0.885324"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.68427665860321" y="-6.61909670054548" z="8.436178174362384"/>
+            </instance>
+        </population>
+        <population id="pop_RMDDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.316458 0.646338 0.786770"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="59.853050028434204" y="8.096678786300981" z="1.405489842506296"/>
+            </instance>
+        </population>
+        <population id="pop_AVHR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.067014 0.210601 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="69.173477049901265" y="-7.332635545688641" z="-0.875453767169518"/>
+            </instance>
+        </population>
+        <population id="pop_I4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.096436 0.509994 0.391287"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="71.561981381263578" y="-9.121826125380482" z="6.317285497721316"/>
+            </instance>
+        </population>
+        <population id="pop_ADLR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.157837 0.800590 0.999406"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="66.954137472663305" y="-4.038781506975155" z="-2.959599010681136"/>
+            </instance>
+        </population>
+        <population id="pop_ASKR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.045268 0.752209 0.125096"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="64.98815531903027" y="-0.827588852917001" z="-5.541658984013374"/>
+            </instance>
+        </population>
+        <population id="pop_AVJR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.691264 0.621834 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="71.110754802104367" y="-7.485075001788821" z="-0.262387680122766"/>
+            </instance>
+        </population>
+        <population id="pop_SAADL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.614512 0.814099 0.682829"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="59.456710640217509" y="10.392300993785653" z="-1.522711966319249"/>
+            </instance>
+        </population>
+        <population id="pop_I6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.009024 0.173845 0.627373"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="74.641074976711579" y="-10.114204628472045" z="8.669914205676838"/>
+            </instance>
+        </population>
+        <population id="pop_SIBDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.339058 0.067031 0.033831"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="61.712551892569763" y="12.275627619274951" z="7.33383222851357"/>
+            </instance>
+        </population>
+        <population id="pop_AVJL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.408134 0.185154 0.053795"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="67.727030094730992" y="3.575541188241941" z="8.251041457637173"/>
+            </instance>
+        </population>
+        <population id="pop_ASER" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.328096 0.599803"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="68.65718842313521" y="-2.85542537460386" z="-5.235720495432028"/>
+            </instance>
+        </population>
+        <population id="pop_IL1VR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.944973 0.688435 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="62.524258602003812" y="10.655601516084815" z="1.521766070474916"/>
+            </instance>
+        </population>
+        <population id="pop_URXL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.730920 0.623719 0.007529"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="71.207178692199065" y="0.791097464549863" z="8.09526776631269"/>
+            </instance>
+        </population>
+        <population id="pop_AFDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.685608 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="63.368414323261895" y="9.918896294832846" z="-1.295895430350523"/>
+            </instance>
+        </population>
+        <population id="pop_AIBR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.665680 0.412290 0.326324"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="65.657728680272655" y="5.109524195958864" z="-5.945804835319462"/>
+            </instance>
+        </population>
+        <population id="pop_AINR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.109654 1.000000 0.224918"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="73.934834034443185" y="-6.191107971792971" z="-2.570906740361032"/>
+            </instance>
+        </population>
+        <population id="pop_RIR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.206021 0.078341 0.493327"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="61.427656924900901" y="13.5849728678805" z="-2.232233491789215"/>
+            </instance>
+        </population>
+        <population id="pop_AWCR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.821743 0.588219 0.707864"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="64.033157475632066" y="9.72729165321557" z="-3.797779712701613"/>
+            </instance>
+        </population>
+        <population id="pop_RIBR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.065735 0.000000 0.237277"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="62.394235914909132" y="14.556627430436096" z="-3.898915295159733"/>
+            </instance>
+        </population>
+        <population id="pop_AVEL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.450775 0.969293 0.141258"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.731620901907448" y="5.464740652247143" z="4.416751938630626"/>
+            </instance>
+        </population>
+        <population id="pop_RIBL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.181289 0.191123 0.856804"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="67.465326533884337" y="9.864794672117569" z="1.884528296816579"/>
+            </instance>
+        </population>
+        <population id="pop_ASIL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.253777 0.352286 0.259142"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.795553468791624" y="6.583580482976918" z="7.092478000713178"/>
+            </instance>
+        </population>
+        <population id="pop_AINL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.327545 0.138659 0.327591"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="74.767963381637898" y="0.941176692722822" z="10.656344977420552"/>
+            </instance>
+        </population>
+        <population id="pop_ASHR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.873337 0.149654 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="66.948137838356828" y="11.050064403209994" z="-9.460183748618288"/>
+            </instance>
+        </population>
+        <population id="pop_AVER" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.703204 0.807501 0.482869"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.803340936378632" y="7.1217060715255" z="-5.868330823220473"/>
+            </instance>
+        </population>
+        <population id="pop_AWAR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.367994 0.396991"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="72.286958203896177" y="4.807728440460498" z="-5.720325883570873"/>
+            </instance>
+        </population>
+        <population id="pop_ASGL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.440541 0.931279 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="70.200293477055666" y="13.157341307773921" z="0.610071327677115"/>
+            </instance>
+        </population>
+        <population id="pop_RIVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.002314 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="83.721985656562055" y="-11.102561648241904" z="1.675421848812502"/>
+            </instance>
+        </population>
+        <population id="pop_AIZR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.425190 0.274061 0.289247"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="76.175539365092988" y="3.379660255373743" z="-5.502255731822494"/>
+            </instance>
+        </population>
+        <population id="pop_AVDR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.318590 0.417945 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="79.012301512628596" y="-1.894986644076438" z="-5.890254456876643"/>
+            </instance>
+        </population>
+        <population id="pop_ASJL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.102531 0.197348"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="73.003184116582233" y="13.689815446729634" z="5.596636005286157"/>
+            </instance>
+        </population>
+        <population id="pop_RIVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.370185 0.202747 0.466391"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="77.699680909338156" y="6.533372184148307" z="7.586225719296041"/>
+            </instance>
+        </population>
+        <population id="pop_AWCL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.461435 0.759121 0.485087"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="72.842107265465302" y="12.909053462874576" z="1.440723860137057"/>
+            </instance>
+        </population>
+        <population id="pop_AIZL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.452907 0.109128 0.184672"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="79.844229015341156" y="4.762912342756803" z="9.575814242792825"/>
+            </instance>
+        </population>
+        <population id="pop_M2R" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.026504 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="80.606350642450707" y="-1.061357539630332" z="-2.706733144426515"/>
+            </instance>
+        </population>
+        <population id="pop_M5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.086194 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="84.883177858733987" y="-3.678190043059212" z="8.947188610979342"/>
+            </instance>
+        </population>
+        <population id="pop_RMHR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.038872 0.244216 0.274670"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="74.520900577863017" y="15.537240964276039" z="-6.54480418951178"/>
+            </instance>
+        </population>
+        <population id="pop_RICR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.143340 0.178871 0.662231"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="81.638561600171244" y="5.028763435272874" z="-6.397007497654263"/>
+            </instance>
+        </population>
+        <population id="pop_ASGR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.339484 0.707913 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="77.178366849158635" y="13.80840942880746" z="-6.733434144309914"/>
+            </instance>
+        </population>
+        <population id="pop_RICL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.111955 0.387801"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="81.316223662110446" y="14.566384238703966" z="4.041919040354776"/>
+            </instance>
+        </population>
+        <population id="pop_FLPL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.201757 0.866563 0.217312"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="85.13661537138222" y="9.593352463988644" z="7.719035391592333"/>
+            </instance>
+        </population>
+        <population id="pop_SMBDL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.001775 0.152482 0.441990"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="80.719744192199514" y="14.737788202350147" z="-6.217735455275388"/>
+            </instance>
+        </population>
+        <population id="pop_AVG" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.147177 0.731789 0.682829"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="86.320506894753564" y="4.673917452658372" z="-8.414159063979314"/>
+            </instance>
+        </population>
+        <population id="pop_M2L" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.488317 0.151715"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="89.435893485936774" y="8.342252137502685" z="-3.751922699383575"/>
+            </instance>
+        </population>
+        <population id="pop_AIBL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.460687"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="90.580079915257926" y="12.455499766773455" z="-3.951178314198941"/>
+            </instance>
+        </population>
+        <population id="pop_AQR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.635832 1.000000 0.166926"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="93.031743325707254" y="7.049363936448142" z="-8.180766354308556"/>
+            </instance>
+        </population>
+        <population id="pop_SABVL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.638391 0.968036 0.275938"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="91.203386543030803" y="13.529928095206104" z="-6.318830442424072"/>
+            </instance>
+        </population>
+        <population id="pop_ASJR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.199198 0.311446 0.446426"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="92.984942398287501" y="13.746189759587869" z="1.900011423630618"/>
+            </instance>
+        </population>
+        <population id="pop_RIS" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.570167 0.587591 0.931591"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="93.575526519436877" y="13.037268283471109" z="-0.398034444466562"/>
+            </instance>
+        </population>
+        <population id="pop_AUAR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.852870 0.415746 0.237593"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="96.968497194876662" y="5.027310345575875" z="-8.446141287225313"/>
+            </instance>
+        </population>
+        <population id="pop_SABD" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.638391 0.982487 0.355478"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="96.191531116461164" y="11.934818338385707" z="-5.63750508728603"/>
+            </instance>
+        </population>
+        <population id="pop_RIFL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.329250 0.290083 0.229671"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="94.694532007682881" y="17.93364743411145" z="-2.32313352184145"/>
+            </instance>
+        </population>
+        <population id="pop_VB1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.443099 0.301079 0.121927"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="94.581812523015103" y="17.321435784631205" z="-5.199715285331446"/>
+            </instance>
+        </population>
+        <population id="pop_AVKL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.094363 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="98.22070531083564" y="13.100028634467167" z="3.880258348945167"/>
+            </instance>
+        </population>
+        <population id="pop_SIADR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.155279 0.221597 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="98.367063372100858" y="12.340151894258408" z="1.218355821226556"/>
+            </instance>
+        </population>
+        <population id="pop_RMGR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.156985 0.012682 0.224601"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="101.027660422292968" y="4.83862906886533" z="-4.833363849617944"/>
+            </instance>
+        </population>
+        <population id="pop_ADAR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.269981 0.257096 0.620401"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="101.068171534490915" y="4.549796049545669" z="-7.836284772285103"/>
+            </instance>
+        </population>
+        <population id="pop_RMGL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.013938 0.252171"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="100.991883181375272" y="10.050517023630192" z="6.433311337476446"/>
+            </instance>
+        </population>
+        <population id="pop_RIH" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.150162 0.460985 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="99.848460481533905" y="10.534086289358417" z="-3.754332501302241"/>
+            </instance>
+        </population>
+        <population id="pop_VB2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.588928 0.208088 0.007845"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="106.911084748125262" y="15.695929676425733" z="-2.109558590058147"/>
+            </instance>
+        </population>
+        <population id="pop_VA1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.603000 0.322441 0.057281"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="111.046605140720672" y="16.172207208661398" z="-0.168808560031056"/>
+            </instance>
+        </population>
+        <population id="pop_DB2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.118758"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="111.708970177475777" y="17.125724738330746" z="-2.523218177424609"/>
+            </instance>
+        </population>
+        <population id="pop_RIFR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.277230 1.000000 0.133969"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="115.995231791273355" y="15.238551509351945" z="-2.867034779358633"/>
+            </instance>
+        </population>
+        <population id="pop_AVFL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.008597 0.043155 0.481918"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="119.036647398727851" y="16.132598839050779" z="3.804313447710571"/>
+            </instance>
+        </population>
+        <population id="pop_RIGR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.736036 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="119.113118096717713" y="14.140005488912157" z="-1.867851387768363"/>
+            </instance>
+        </population>
+        <population id="pop_VD1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.260600 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="122.069296035533654" y="15.46183359212178" z="-4.186051885486981"/>
+            </instance>
+        </population>
+        <population id="pop_VD2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.326266 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="123.156141311602966" y="13.500569516277357" z="-2.866237798115332"/>
+            </instance>
+        </population>
+        <population id="pop_SABVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.267422 1.000000 0.348506"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="127.83086690836096" y="15.4447439372895" z="-5.413169535372813"/>
+            </instance>
+        </population>
+        <population id="pop_DB1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="130.279276007952376" y="14.437663690971219" z="-3.697950557679909"/>
+            </instance>
+        </population>
+        <population id="pop_AVFR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.021478 0.294000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="130.634213478219351" y="18.341374210267261" z="4.340368375457781"/>
+            </instance>
+        </population>
+        <population id="pop_DD1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.769722 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="130.985873514957518" y="16.69751621414764" z="-4.606709948210892"/>
+            </instance>
+        </population>
+        <population id="pop_RIGL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.514308 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="131.877925923203605" y="16.237154773935849" z="-1.275835733928385"/>
+            </instance>
+        </population>
+        <population id="pop_AS1" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.279362 0.228194 0.382097"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="138.471016063302642" y="12.032409212283476" z="-3.420679154088647"/>
+            </instance>
+        </population>
+        <population id="pop_BDUR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="139.628755428907567" y="-5.520878537954557" z="-6.427117137699224"/>
+            </instance>
+        </population>
+        <population id="pop_VA2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.558654 0.128606 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="149.863236006053654" y="19.802082055859316" z="-4.708528195085323"/>
+            </instance>
+        </population>
+        <population id="pop_VB3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.558654 0.103159 0.045873"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="154.503206924456805" y="20.337889704779819" z="-4.873464641688657"/>
+            </instance>
+        </population>
+        <population id="pop_AS2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.502768 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="175.302090277181151" y="19.676351938035083" z="-3.109120133347133"/>
+            </instance>
+        </population>
+        <population id="pop_DB3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.480623 1.000000 0.096259"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="179.694778516064986" y="21.06009761767708" z="-4.904097428002882"/>
+            </instance>
+        </population>
+        <population id="pop_VD3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.126284 0.622462 0.877085"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="182.74798935362054" y="19.70103569590114" z="-3.043515375392881"/>
+            </instance>
+        </population>
+        <population id="pop_DA2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.849885 0.784254 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="185.714290101006185" y="20.831169763176142" z="-4.752631828938172"/>
+            </instance>
+        </population>
+        <population id="pop_VA3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 0.736187 0.205904"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="187.41854273626501" y="20.867106515823551" z="-2.165205072725121"/>
+            </instance>
+        </population>
+        <population id="pop_VB4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.171909 0.000000 0.074393"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="194.136864895483058" y="22.940481676036953" z="-5.501572341854169"/>
+            </instance>
+        </population>
+        <population id="pop_DD2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.004760 1.000000 0.863458"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="222.562528752226086" y="23.32275899610876" z="-6.657228190040005"/>
+            </instance>
+        </population>
+        <population id="pop_AS3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.264636 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="227.213662678761636" y="24.811481425712522" z="-5.906717071922395"/>
+            </instance>
+        </population>
+        <population id="pop_VD4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.055696"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="236.942322643725618" y="26.216289406483099" z="-5.071625112672918"/>
+            </instance>
+        </population>
+        <population id="pop_DA3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.133533 0.298879 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="253.202218766436687" y="27.692621314832898" z="-5.490905320301724"/>
+            </instance>
+        </population>
+        <population id="pop_VA4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.176599 0.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="258.944514700856075" y="27.642202597994839" z="-5.412842668161739"/>
+            </instance>
+        </population>
+        <population id="pop_AVM" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.134385 0.419202 0.152666"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="239.799566195412609" y="6.33363373996723" z="-10.101433121187904"/>
+            </instance>
+        </population>
+        <population id="pop_SDQR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.032049 0.100017 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="215.917346219716961" y="-16.823354943967804" z="-1.185014788817042"/>
+            </instance>
+        </population>
+        <population id="pop_VB5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.078953 0.029646 0.046823"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="265.804654237493992" y="26.881250726608641" z="-5.0424628504932"/>
+            </instance>
+        </population>
+        <population id="pop_AS4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.161592 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="304.031168624176644" y="25.805759146618207" z="-2.938006512873625"/>
+            </instance>
+        </population>
+        <population id="pop_DB4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.240559 0.477635 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="308.389267075825956" y="26.692683270336175" z="-3.244655986677265"/>
+            </instance>
+        </population>
+        <population id="pop_VD5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.407765"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="312.14725951521757" y="26.304410572871475" z="-3.053063402025121"/>
+            </instance>
+        </population>
+        <population id="pop_ALMR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.435424 0.699117 0.221115"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="293.74523925928213" y="-15.706869090437761" z="-0.838796965297454"/>
+            </instance>
+        </population>
+        <population id="pop_ALML" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.321570"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="308.127172154607251" y="-9.541722020101009" z="24.004658452891242"/>
+            </instance>
+        </population>
+        <population id="pop_VA5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.109654 0.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="333.76846451504548" y="27.381861133524353" z="-4.552521265951981"/>
+            </instance>
+        </population>
+        <population id="pop_VB6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.189817 0.122637 0.073442"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="339.443132035496205" y="27.045995469232231" z="-4.362254261732409"/>
+            </instance>
+        </population>
+        <population id="pop_DA4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="345.905802966431338" y="25.90141015814396" z="-2.55198341374448"/>
+            </instance>
+        </population>
+        <population id="pop_DD3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.472295 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="363.800188979448421" y="25.525228753935778" z="-2.222085407635099"/>
+            </instance>
+        </population>
+        <population id="pop_AS5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.433025 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="367.517404115742238" y="25.57765672567615" z="-2.205194364959762"/>
+            </instance>
+        </population>
+        <population id="pop_VC2" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.029018 0.246466"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="371.098660193592423" y="25.407835157156008" z="-2.10178398870806"/>
+            </instance>
+        </population>
+        <population id="pop_VC3" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.350997 0.174159 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="398.577716967018773" y="23.652021200622741" z="-1.129252172199629"/>
+            </instance>
+        </population>
+        <population id="pop_VB7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.309210 0.144942 0.179285"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="405.060628716095835" y="23.635380666026471" z="-2.349246093424274"/>
+            </instance>
+        </population>
+        <population id="pop_VD7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.774829 0.996237"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="408.404221359789744" y="20.846378843120853" z="-1.212404963394852"/>
+            </instance>
+        </population>
+        <population id="pop_AS6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.747811 0.246466"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="408.636014745912235" y="22.991038889917853" z="-2.058231346282913"/>
+            </instance>
+        </population>
+        <population id="pop_DB5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.206447 0.345061 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="422.022151696306992" y="24.806926176549787" z="-2.64088722890183"/>
+            </instance>
+        </population>
+        <population id="pop_DA5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.274671 0.391242 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="427.796866355909742" y="24.066409100457136" z="-3.581769945932223"/>
+            </instance>
+        </population>
+        <population id="pop_VA7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.041856 0.034673 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="435.02718420225824" y="23.724096177952333" z="-5.957595792927683"/>
+            </instance>
+        </population>
+        <population id="pop_VC4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.362510 0.166619 0.200834"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="442.667360246635099" y="16.508064816856063" z="-1.734264011633338"/>
+            </instance>
+        </population>
+        <population id="pop_HSNR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.030589 0.604556"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="460.302413440662008" y="7.997080453449996" z="-7.235190601244364"/>
+            </instance>
+        </population>
+        <population id="pop_HSNL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="463.947703209052747" y="12.458506651622537" z="18.173378936767609"/>
+            </instance>
+        </population>
+        <population id="pop_VC5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.205594 0.369251 0.499348"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="467.308566376017325" y="14.617023459651064" z="5.723995152638809"/>
+            </instance>
+        </population>
+        <population id="pop_VB8" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.298550 0.071115 0.120026"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="467.619193391996873" y="24.813968703212623" z="-4.766532047335009"/>
+            </instance>
+        </population>
+        <population id="pop_DD4" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.004333 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="476.474316381351514" y="22.959175864717565" z="-3.943365727637692"/>
+            </instance>
+        </population>
+        <population id="pop_AS7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.648537 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="480.105437466719991" y="23.454619634569887" z="-1.518161736415509"/>
+            </instance>
+        </population>
+        <population id="pop_VD8" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.107871 0.728145"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="482.570418006147406" y="23.042458727719442" z="-3.914598337854366"/>
+            </instance>
+        </population>
+        <population id="pop_VA8" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.526674 0.098447 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="503.955227939421775" y="26.092487771244599" z="-1.027788990214274"/>
+            </instance>
+        </population>
+        <population id="pop_VB9" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.536907 0.098447 0.094991"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="508.272418332218876" y="26.216567054475995" z="-1.033161793644085"/>
+            </instance>
+        </population>
+        <population id="pop_DB6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.178731 0.408835 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="517.548845985137746" y="26.165594919266702" z="-0.919108112730247"/>
+            </instance>
+        </population>
+        <population id="pop_AS8" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.268720 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="521.858443552612243" y="24.887715248677118" z="-0.370109461496809"/>
+            </instance>
+        </population>
+        <population id="pop_VD9" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.204636"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="538.306825159669302" y="24.430689386419949" z="-1.315069710169683"/>
+            </instance>
+        </population>
+        <population id="pop_DA6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.085349 0.262437 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="545.692262620922747" y="25.033683942745206" z="-1.478787946172811"/>
+            </instance>
+        </population>
+        <population id="pop_VA9" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.261879 0.147141 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="567.122093856027391" y="23.433589150596283" z="-3.213458607678198"/>
+            </instance>
+        </population>
+        <population id="pop_VB10" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.136517 0.041898 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="577.188273722099666" y="21.943203910988913" z="-2.522150407871795"/>
+            </instance>
+        </population>
+        <population id="pop_DD5" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.009876 0.269349 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="583.988547249498879" y="21.546755017239235" z="-1.004336211150039"/>
+            </instance>
+        </population>
+        <population id="pop_AS9" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.305477 0.039852"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="588.53000462897262" y="21.649329455240149" z="-0.998934243933216"/>
+            </instance>
+        </population>
+        <population id="pop_VD10" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.049124 0.361816"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="592.676917586125114" y="21.235766972162573" z="-0.793403407962899"/>
+            </instance>
+        </population>
+        <population id="pop_PDEL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.745417 0.057606 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="614.298669949545683" y="2.767468852594637" z="17.066868480933042"/>
+            </instance>
+        </population>
+        <population id="pop_VA10" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.072131 0.042527 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="629.003890915170018" y="20.542223284564507" z="-1.443616009161041"/>
+            </instance>
+        </population>
+        <population id="pop_VB11" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.194508 0.077712 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="636.386646410616777" y="19.784316385238149" z="-1.069150548915647"/>
+            </instance>
+        </population>
+        <population id="pop_DB7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.756930 0.386530 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="641.930032194973137" y="20.021624498743542" z="0.185302607374551"/>
+            </instance>
+        </population>
+        <population id="pop_AS10" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.203036 1.000000 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="649.483832311488754" y="18.557568271743079" z="0.840768098525163"/>
+            </instance>
+        </population>
+        <population id="pop_DA7" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.375728 1.000000 0.147279"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="652.501692509539566" y="19.219472480878416" z="0.609543983748871"/>
+            </instance>
+        </population>
+        <population id="pop_VD11" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.013714 0.573139 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="655.677112437478968" y="17.967600769372531" z="1.136776934292556"/>
+            </instance>
+        </population>
+        <population id="pop_VA11" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.284478 0.011739 0.199883"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="694.164097718243056" y="15.154399044045691" z="2.638906917142823"/>
+            </instance>
+        </population>
+        <population id="pop_AS11" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.160336 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="722.211184679972007" y="11.808798776641117" z="4.245918767548204"/>
+            </instance>
+        </population>
+        <population id="pop_VD12" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.032159 0.364668"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="729.242678011074986" y="11.242573030876548" z="4.541022505033078"/>
+            </instance>
+        </population>
+        <population id="pop_PVT" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="732.636066032903386" y="8.461806315019654" z="3.090722057613494"/>
+            </instance>
+        </population>
+        <population id="pop_PVPL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.500663 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="734.8839854088626" y="8.781335163846673" z="5.571496437395735"/>
+            </instance>
+        </population>
+        <population id="pop_DVB" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.032902 0.371450 0.179602"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="765.023360651552935" y="-11.553111062668828" z="12.626259819156692"/>
+            </instance>
+        </population>
+        <population id="pop_VA12" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.795306 0.533555 0.447060"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="739.454425669576835" y="6.303395191706768" z="5.305542130453717"/>
+            </instance>
+        </population>
+        <population id="pop_PVPR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="738.423937175294782" y="6.535128920250584" z="2.619076530208629"/>
+            </instance>
+        </population>
+        <population id="pop_DVA" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.001348 0.520675 0.177384"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="764.324099959632917" y="-10.564815624000238" z="8.351746612086384"/>
+            </instance>
+        </population>
+        <population id="pop_PDA" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.362025 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="751.206822409718484" y="-2.531787639697748" z="6.334258129911282"/>
+            </instance>
+        </population>
+        <population id="pop_DA8" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.980709"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="741.584314528890445" y="6.797873091979111" z="5.131543995434632"/>
+            </instance>
+        </population>
+        <population id="pop_DD6" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.287037 0.430826 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="743.408704086325542" y="5.108213649166395" z="4.526044338172944"/>
+            </instance>
+        </population>
+        <population id="pop_DA9" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="741.817789833216125" y="6.701111008774575" z="2.587786016863817"/>
+            </instance>
+        </population>
+        <population id="pop_DVC" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.354171 0.437553"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="768.092122896452565" y="-8.583306039304567" z="11.482819712834145"/>
+            </instance>
+        </population>
+        <population id="pop_VD13" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.076770 1.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="748.002812732182633" y="4.798155107048297" z="4.695167793209283"/>
+            </instance>
+        </population>
+        <population id="pop_PDB" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.296680 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="751.096457675444867" y="4.561450324459965" z="3.527899276345078"/>
+            </instance>
+        </population>
+        <population id="pop_ALNR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.013288 0.164106 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="787.073379345865987" y="-15.557425482340308" z="7.972106971018525"/>
+            </instance>
+        </population>
+        <population id="pop_PVQL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.002000 0.309845"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="762.531693812591357" y="-2.697166239422971" z="2.637708412687624"/>
+            </instance>
+        </population>
+        <population id="pop_LUAL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.657579 1.000000 0.285761"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="771.726239523962477" y="-5.14001921644118" z="3.696877025492062"/>
+            </instance>
+        </population>
+        <population id="pop_PVR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.197066 0.435538 0.000000"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="789.035790709643265" y="-12.876216192911393" z="6.931602647351246"/>
+            </instance>
+        </population>
+        <population id="pop_PHAL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.500569 0.023373"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="767.921421358484736" y="-2.060894739003823" z="2.440629377671916"/>
+            </instance>
+        </population>
+        <population id="pop_PVNR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.255023"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="794.061025787048607" y="-13.778254393724827" z="7.339206708424264"/>
+            </instance>
+        </population>
+        <population id="pop_PQR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="1.000000 1.000000 0.620401"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="775.026679225172188" y="-4.201639383663269" z="3.359172263419955"/>
+            </instance>
+        </population>
+        <population id="pop_PVNL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.000000 0.000000 0.482552"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="799.126114439977641" y="-9.178090640794803" z="10.739974672984761"/>
+            </instance>
+        </population>
+        <population id="pop_PHCL" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.119888 0.011425 0.650189"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="784.561450993996459" y="-4.531241413967018" z="3.586033745380144"/>
+            </instance>
+        </population>
+        <population id="pop_PLMR" component="GenericNeuronCell" type="populationList">
+            <property tag="color" value="0.330103 0.572197 0.178651"/>
+            <property tag="radius" value="2"/>
+            <instance id="0">
+                <location x="388.762915087519445" y="-5.092581536944445" z="-0.198203883903243"/>
+            </instance>
+        </population>
+    </network>
+</neuroml>
