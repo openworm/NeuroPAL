@@ -15,4 +15,8 @@ The dataset released with this publication on positions and colors (as used in F
 
 # Whole body datasets
 
-Updated data has been provided by Michael Skuhersky <on the whole body cell positions and colors. Conversion of this data can be seen [here](TestWholeWorm.ipynb).
+Updated data has been provided by Michael Skuhersky on the whole body cell positions and colors. Conversion of this data can be seen [here](TestWholeWorm.ipynb).
+
+![Screenshot_Whole.png](NeuroML2/Screenshot_Whole.png)
+
+<p align="center"><i>The above image shows the whole worm data <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_All_straightened.net.nml">visualised on Open Source Brain</a>. Seven worm reconstructions are shown, and the worm body/layout has been straightened/standardized as described <a href="https://www.biorxiv.org/content/10.1101/2021.06.09.447813v1.full">here</a>.</i></p>
