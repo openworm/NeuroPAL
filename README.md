@@ -2,6 +2,8 @@
 
 This repository contains some test scripts which use the NeuroPAL datasets.
 
+**Note: Work in progress! Subject to change without notice! Please get in contact if you would like to reuse this dataset, to help improve the quality of the conversion**
+
 # Head and tail datasets
 
 The original publication on NeuroPAL was: Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Gonzalo E. Mena, Aravinthan D.T. Samuel, Liam Paninski, Vivek Venkatachalam, Oliver Hobert, <b>NeuroPAL: A Multicolor Atlas for Whole-Brain Neuronal Identification in <i>C. elegans</i></b>,
