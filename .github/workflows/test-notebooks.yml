@@ -27,11 +27,14 @@ jobs:
         pip install xlrd==1.2.0
         pip install nbmake # installs pytest too
 
-        pip install matplotlib pyneuroml 
+        pip install matplotlib pyneuroml
 
     - name: Test Notebooks
       run: |
         pytest -v --nbmake TestLoadingData.ipynb
+
+        
+        pytest -v --nbmake TestCanonicalPositions.ipynb
 
 
     - name: Final version info
