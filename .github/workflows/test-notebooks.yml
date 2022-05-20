@@ -27,7 +27,7 @@ jobs:
         pip install xlrd==1.2.0
         pip install nbmake # installs pytest too
 
-        pip install matplotlib libneuroml 
+        pip install matplotlib pyneuroml 
 
     - name: Test Notebooks
       run: |
