@@ -25,11 +25,11 @@ jobs:
     - name: Install dependencies
       run: |
         pip install xlrd==1.2.0
-        pip install pynwb==2.0.0 runipy
+        pip install nbmake # installs pytest too
 
     - name: Test Notebooks
       run: |
-        runipy TestLoadingData.ipynb
+        pytest -v --nbmake TestLoadingData.ipynb 
 
 
     - name: Final version info
