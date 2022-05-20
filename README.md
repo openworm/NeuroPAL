@@ -1,5 +1,7 @@
 # NeuroPAL
 
+[![Continuous builds](https://github.com/openworm/NeuroPAL/actions/workflows/omv-ci.yml/badge.svg)](https://github.com/openworm/NeuroPAL/actions/workflows/omv-ci.yml) [![Test Notebooks](https://github.com/openworm/NeuroPAL/actions/workflows/test-notebooks.yml/badge.svg)](https://github.com/openworm/NeuroPAL/actions/workflows/test-notebooks.yml)
+
 This repository contains some test scripts which use the NeuroPAL datasets.
 
 **Note: Work in progress! Subject to change without notice! Please get in contact if you would like to reuse this dataset, to help improve the quality of the conversion**
