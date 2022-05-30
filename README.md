@@ -9,11 +9,13 @@ This repository contains some test scripts which use the NeuroPAL datasets.
 
 # Canonical positions and colors
 
-A canonical set of positions for the cell bodes as well as colors reflecting expression levels has been produced. A description of the data can be found in: Toward a more accurate 3D atlas of C. elegans neurons, Michael Skuhersky, Tailin Wu, Eviatar Yemini, Amin Nejatbakhsh, Edward Boyden & Max Tegmark {BMC Bioinformatics volume 23, Article number: 195 (2022)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04738-3)
+A canonical set of positions for the cell bodes as well as colors reflecting expression levels has been produced. A description of the data can be found in: **Toward a more accurate 3D atlas of <i>C. elegans</i> neurons**, Michael Skuhersky, Tailin Wu, Eviatar Yemini, Amin Nejatbakhsh, Edward Boyden & Max Tegmark [BMC Bioinformatics volume 23, Article number: 195 (2022)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04738-3)
 
-More details on the data can be found [here](data/CanonicalPositions/README.md), and a Jupyter notebook containing the conversion of this data to NeuroML is [here](TestCanonicalPositions.ipynb). 
+More details on the data can be found [here](data/CanonicalPositions/README.md), and a Jupyter notebook containing the conversion of this data to NeuroML is [here](TestCanonicalPositions.ipynb).
 
 ![Screenshot_Canonical.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Canonical.png)
+
+<p align="center"><i>The above image shows the canonical positions and colors <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Canonical.net.nml">visualised on Open Source Brain</a>.</i></p>
 
 
 # Head and tail datasets
