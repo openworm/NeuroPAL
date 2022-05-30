@@ -6,6 +6,16 @@ This repository contains some test scripts which use the NeuroPAL datasets.
 
 **Note: Work in progress! Subject to change without notice! Please get in contact if you would like to reuse this dataset, to help improve the quality of the conversion**
 
+
+# Canonical positions and colors
+
+A canonical set of positions for the cell bodes as well as colors reflecting expression levels has been produced. A description of the data can be found in: Toward a more accurate 3D atlas of C. elegans neurons, Michael Skuhersky, Tailin Wu, Eviatar Yemini, Amin Nejatbakhsh, Edward Boyden & Max Tegmark {BMC Bioinformatics volume 23, Article number: 195 (2022)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04738-3)
+
+More details on the data can be found [here](data/CanonicalPositions/README.md), and a Jupyter notebook containing the conversion of this data to NeuroML is [here](TestCanonicalPositions.ipynb). 
+
+![Screenshot_Canonical.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Canonical.png)
+
+
 # Head and tail datasets
 
 The original publication on NeuroPAL was: Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Gonzalo E. Mena, Aravinthan D.T. Samuel, Liam Paninski, Vivek Venkatachalam, Oliver Hobert, <b>NeuroPAL: A Multicolor Atlas for Whole-Brain Neuronal Identification in <i>C. elegans</i></b>,
