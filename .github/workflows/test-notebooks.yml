@@ -33,6 +33,7 @@ jobs:
       run: |
         pytest -v --nbmake TestLoadingData.ipynb
 
+        echo "============    Testing nb 2   ==========="
         
         pytest -v --nbmake TestCanonicalPositions.ipynb
 
