@@ -11,7 +11,7 @@ This repository contains some test scripts which use the NeuroPAL datasets.
 
 A canonical set of positions for the cell bodes as well as colors reflecting expression levels has been produced. A description of the data can be found in: **Toward a more accurate 3D atlas of <i>C. elegans</i> neurons**, Michael Skuhersky, Tailin Wu, Eviatar Yemini, Amin Nejatbakhsh, Edward Boyden & Max Tegmark [BMC Bioinformatics volume 23, Article number: 195 (2022)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04738-3)
 
-More details on the data can be found [here](data/CanonicalPositions/README.md), and a Jupyter notebook containing the conversion of this data to NeuroML is [here](TestCanonicalPositions.ipynb).
+More details on the data can be found [here](data/CanonicalPositions/README.md), and a Jupyter notebook containing the conversion of this data to NeuroML is [here](https://github.com/openworm/NeuroPAL/blob/main/TestCanonicalPositions.ipynb).
 
 ![Screenshot_Canonical.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Canonical.png)
 
@@ -23,7 +23,7 @@ More details on the data can be found [here](data/CanonicalPositions/README.md),
 The original publication on NeuroPAL was: Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Gonzalo E. Mena, Aravinthan D.T. Samuel, Liam Paninski, Vivek Venkatachalam, Oliver Hobert, <b>NeuroPAL: A Multicolor Atlas for Whole-Brain Neuronal Identification in <i>C. elegans</i></b>,
 [Cell, Volume 184, Issue 1, 2021](https://doi.org/10.1016/j.cell.2020.12.012).
 
-The dataset released with this publication on positions and colors (as used in Figures 2 and 7) of cells in the head and tail has been used in [this Jupyter notebook](TestLoadingData.ipynb), and extracted from the Excel sheet, and converted to NeuroML format.
+The dataset released with this publication on positions and colors (as used in Figures 2 and 7) of cells in the head and tail has been used in [this Jupyter notebook](https://github.com/openworm/NeuroPAL/blob/main/TestLoadingData.ipynb), and extracted from the Excel sheet, and converted to NeuroML format.
 
 ![Screenshot_HM.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_HM.png)
 
@@ -31,7 +31,7 @@ The dataset released with this publication on positions and colors (as used in F
 
 # Whole body datasets
 
-Updated data has been provided by Michael Skuhersky on the whole body cell positions and colors. Conversion of this data can be seen [here](TestWholeWorm.ipynb).
+Updated data has been provided by Michael Skuhersky on the whole body cell positions and colors. Conversion of this data can be seen [here](https://github.com/openworm/NeuroPAL/blob/main/TestWholeWorm.ipynb).
 
 ![Screenshot_Whole.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Whole.png)
 
