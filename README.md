@@ -15,7 +15,7 @@ More details on the data can be found [here](data/CanonicalPositions/README.md),
 
 ![Screenshot_Canonical.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Canonical.png)
 
-<p align="center"><i>The above image shows the canonical positions and colors <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Canonical.net.nml">visualised on Open Source Brain</a>.</i></p>
+<p align="center"><i>The above image shows the canonical positions and colors <a href="https://v1.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Canonical.net.nml">visualised on Open Source Brain</a>.</i></p>
 
 
 # Head and tail datasets
@@ -27,7 +27,7 @@ The dataset released with this publication on positions and colors (as used in F
 
 ![Screenshot_HM.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_HM.png)
 
-<p align="center"><i>The above image shows the data <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Herm_Male.net.nml">visualised on Open Source Brain</a>, with the data from the male worm shown in front (head to left, tail to right, shifted to be adjacent), and the equivalent hermaphrodite data behind.</i></p>
+<p align="center"><i>The above image shows the data <a href="https://v1.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Herm_Male.net.nml">visualised on Open Source Brain</a>, with the data from the male worm shown in front (head to left, tail to right, shifted to be adjacent), and the equivalent hermaphrodite data behind.</i></p>
 
 # Whole body datasets
 
@@ -35,4 +35,4 @@ Updated data has been provided by Michael Skuhersky on the whole body cell posit
 
 ![Screenshot_Whole.png](https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Whole.png)
 
-<p align="center"><i>The above image shows the whole worm data <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_All_straightened.net.nml">visualised on Open Source Brain</a>. Seven worm reconstructions are shown, and the worm body/layout has been straightened/standardized as described <a href="https://www.biorxiv.org/content/10.1101/2021.06.09.447813v1.full">here</a>.</i></p>
+<p align="center"><i>The above image shows the whole worm data <a href="https://v1.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_All_straightened.net.nml">visualised on Open Source Brain</a>. Seven worm reconstructions are shown, and the worm body/layout has been straightened/standardized as described <a href="https://www.biorxiv.org/content/10.1101/2021.06.09.447813v1.full">here</a>.</i></p>
